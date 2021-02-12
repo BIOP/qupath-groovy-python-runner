@@ -1,0 +1,9 @@
+numpy==1.20.0rc1
+opencv-python==4.5.1.48
+scikit-image==0.18.1
+scipy==1.6.0
+tifffile==2021.2.1
+tqdm==4.56.2
+cellpose==0.6.1
+stardist==0.6.1
+torch==1.7.1+cu101
