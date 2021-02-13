@@ -1,7 +1,7 @@
 # Running Python Segmentation Pipelines from QuPath
 
 The goal of this project is to serve as a proof-of-concept that allows for the use of Python to predict segmentations from large images in QuPath.
-It was authored by [Olivier Burri](https://github.com/lacan) for the BioImaging and Optics Platform (BIOP) at the Ecole Polytechnique Fédérale de Lausanne
+It was authored by [Olivier Burri](https://github.com/lacan) and [Romain Guiet](https://github.com/romainGuiet) for the BioImaging and Optics Platform (BIOP) at the Ecole Polytechnique Fédérale de Lausanne
 
 **If you use this project please make sure to cite this repository and the actual deep learning algorithm publication.**
 
